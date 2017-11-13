@@ -2,7 +2,7 @@
 Stop you when using BAD WORDS
 
 This is C++ program (Core program).
-Taks of this program is to STOP using BAD WORDS (like fuck,ass,bitch,pussy).
+Task of this program is to STOP using BAD WORDS (like fuck,ass,bitch,pussy).
 When user get angry and want to yell(swear) someone/something and if it uses the bad words from BadWords.txt file , program will stop it.
 Easy to understand :D
 
