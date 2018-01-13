@@ -7,5 +7,5 @@ When user get angry and want to yell(swear) someone/something and if it uses the
 Easy to understand :D
 
 Developed by VictorYovev !
-Contact : https://www.facebook.com/programer4eto
+Contact : https://www.facebook.com/victor.yovev.3
 E-mail : viktorjovev99@gmail.com
