@@ -1,4 +1,4 @@
-# AntiCensor-
+# AutoCensor-
 Stop you when using BAD WORDS
 
 1.0.2 Version =>
