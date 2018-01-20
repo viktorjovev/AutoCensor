@@ -12,7 +12,13 @@ Easy to understand :D
 
 The app is rewrite in Delphi (Core and Design)
 Algorithm improved.
-Design changed.  
+Design changed. 
+
+2.5 Version =>
+
+Algorithm improved. (Binary Search)
+Мore Еfficient.
+More added BadWords.
 
 
 Developed by VictorYovev !
