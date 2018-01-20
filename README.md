@@ -11,14 +11,19 @@ Easy to understand :D
 1.1 Version =>
 
 The app is rewrite in Delphi (Core and Design)
+
 Algorithm improved.
+
 Design changed. 
 
 2.5 Version =>
 
 Algorithm improved. (Binary Search)
+
 Мore Еfficient.
+
 More added BadWords.
+
 
 
 Developed by VictorYovev !
