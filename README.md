@@ -18,6 +18,10 @@ Algorithm improved. (Binary Search)
 Мore Еfficient.
 More added BadWords.
 
+2.8 Version =>
+Now when you type a bad word it will delete.
+Optimized BadWords.txt (Removed bad words that are repeated)
+
 
 
 Developed by VictorYovev !
