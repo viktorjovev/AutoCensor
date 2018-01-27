@@ -32,6 +32,15 @@ begin
        if GetAsyncKeyState(key) = -32767 then begin
           text:=text+CHR(key);
               if badwords.Find(text,Index) then begin
+              keybd_event(VK_SHIFT, 0, 0, 0);
+              keybd_event(VK_CONTROL, 0, 0, 0);
+              keybd_event(VK_LEFT, 0, 0, 0);
+              keybd_event(VK_DELETE, 0, 0, 0);
+
+              keybd_event(VK_DELETE, 0, KEYEVENTF_KEYUP, 0);
+              keybd_event(VK_LEFT, 0, KEYEVENTF_KEYUP, 0);
+              keybd_event(VK_SHIFT, 0, KEYEVENTF_KEYUP, 0);
+              keybd_event(VK_CONTROL, 0, KEYEVENTF_KEYUP, 0);
               MessageDlg(#13+'Hey take it easy man, breathe and take that back!!!',mtWarning,[],0);
               text:='';
               break;
